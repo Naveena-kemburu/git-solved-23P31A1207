@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: Naveena Kemburu  
+- Student ID: 23P31A1207  
+- Repository: https://github.com/Naveena-kemburu  
+- Date Started: 25-10-2025  
+- Date Completed: 29-10-2025  
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
