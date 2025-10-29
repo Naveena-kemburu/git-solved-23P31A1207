@@ -1,11 +1,15 @@
-- 83c9a8f: : (Naveena-kemburu, 56 seconds ago)
-- 559c67c: docs: Update README (Naveena-kemburu, 10 minutes ago)
-- c30a448: docs: Add FAQ section (Naveena-kemburu, 10 minutes ago)
-- bbfbc29: merge: Resolve all conflicts between main and instructor/dev branches (Naveena-kemburu, 11 minutes ago)
-- d1593b1: merge: Resolve all conflicts between main and dev branches (Naveena-kemburu, 25 minutes ago)
-- 8e169f8: Merge branch 'instructor/dev' - resolved all  (Naveena-kemburu, 46 minutes ago)
-- d3dd9b2: updating conflict-simulator (Hanu Gupta, 6 days ago)
-- 02011a5: updating dev (Hanu Gupta, 6 days ago)
-- 0312c6f: updating main (Hanu Gupta, 6 days ago)
-- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
-- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
+c0980e9 reslove all
+1102c14  GIT_JOURNEY.md documentation
+b8af061 docs: Add final project artifacts
+6d9a72c docs: Add changelog
+83c9a8f :
+559c67c docs: Update README
+c30a448 docs: Add FAQ section
+bbfbc29 merge: Resolve all conflicts between main and instructor/dev branches
+d1593b1 merge: Resolve all conflicts between main and dev branches
+8e169f8 Merge branch 'instructor/dev' - resolved all 
+d3dd9b2 updating conflict-simulator
+02011a5 updating dev
+0312c6f updating main
+fadfd24 Revise README for DevOps Simulator project
+ae630eb Initial commit
